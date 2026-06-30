@@ -22,10 +22,13 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/%20-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/iztokkyo)
-[![TikTok](https://img.shields.io/badge/%20-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000)](https://tiktok.com/@tokkyoleaks)
-[![Discord](https://img.shields.io/badge/%20-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000)](https://discord.gg/tkl)
-[![guns.lol](https://img.shields.io/badge/%20-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://guns.lol/tokkyo)
+<a href="https://instagram.com/iztokkyo"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/instagram.svg" width="68" height="68" /></a>
+&nbsp;&nbsp;
+<a href="https://tiktok.com/@tokkyoleaks"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/tiktok.svg" width="68" height="68" /></a>
+&nbsp;&nbsp;
+<a href="https://discord.gg/tkl"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/discord.svg" width="68" height="68" /></a>
+&nbsp;&nbsp;
+<a href="https://guns.lol/tokkyo"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/guns.svg" width="68" height="68" /></a>
 
 <sub>discord: <code>.tokkyo.</code></sub>
 
