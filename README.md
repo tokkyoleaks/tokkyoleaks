@@ -17,25 +17,6 @@
 
 <br/>
 
-<!-- ╭─────────────────── SOBRE MÍ ───────────────────╮ -->
-## `> sobre mí`
-
-```python
-class Tokkyo:
-    def __init__(self):
-        self.alias        = "tokkyo"
-        self.roles        = ["Full Stack Dev", "AI Builder", "FiveM Scripter"]
-        self.lenguajes    = ["Python", "JavaScript", "TypeScript", "C++", "C#", "Lua"]
-        self.haciendo     = "apps con IA + servidores de FiveM"
-        self.aprendiendo  = "siempre algo nuevo"
-        self.tema_favorito = "⚫⚪ blanco y negro"
-
-    def saludar(self):
-        return "¡Gracias por pasar por mi perfil! 🖤"
-```
-
-<br/>
-
 <!-- ╭─────────────────── TECNOLOGÍAS ───────────────────╮ -->
 ## `> tecnologías`
 
