@@ -22,13 +22,13 @@
 
 <div align="center">
 
-<a href="https://instagram.com/iztokkyo"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/instagram.svg" width="68" height="68" /></a>
+<a href="https://instagram.com/iztokkyo"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/instagram.png" width="68" height="68" /></a>
 &nbsp;&nbsp;
-<a href="https://tiktok.com/@tokkyoleaks"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/tiktok.svg" width="68" height="68" /></a>
+<a href="https://tiktok.com/@tokkyoleaks"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/tiktok.png" width="68" height="68" /></a>
 &nbsp;&nbsp;
-<a href="https://discord.gg/tkl"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/discord.svg" width="68" height="68" /></a>
+<a href="https://discord.gg/tkl"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/discord.png" width="68" height="68" /></a>
 &nbsp;&nbsp;
-<a href="https://guns.lol/tokkyo"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/guns.svg" width="68" height="68" /></a>
+<a href="https://guns.lol/tokkyo"><img src="https://raw.githubusercontent.com/tokkyoleaks/tokkyoleaks/main/assets/guns.png" width="68" height="68" /></a>
 
 <sub>discord: <code>.tokkyo.</code></sub>
 
