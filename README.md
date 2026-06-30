@@ -18,7 +18,7 @@
 <br/>
 
 <!-- ╭─────────────────── REDES ───────────────────╮ -->
-## `> redes`
+## `> Socials`
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 <br/>
 
 <!-- ╭─────────────────── TECH STACK ───────────────────╮ -->
-## `> tech stack`
+## `> TechStack`
 
 <div align="center">
 
