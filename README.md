@@ -22,10 +22,10 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iztokkyo)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@tokkyoleaks)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tkl)
-[![guns.lol](https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guns.lol/tokkyo)
+[![Instagram](https://img.shields.io/badge/%20-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/iztokkyo)
+[![TikTok](https://img.shields.io/badge/%20-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000)](https://tiktok.com/@tokkyoleaks)
+[![Discord](https://img.shields.io/badge/%20-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000)](https://discord.gg/tkl)
+[![guns.lol](https://img.shields.io/badge/%20-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://guns.lol/tokkyo)
 
 <sub>discord: <code>.tokkyo.</code></sub>
 
