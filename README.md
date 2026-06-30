@@ -60,44 +60,6 @@ class Tokkyo:
 
 <br/>
 
-<!-- ╭─────────────────── ESTADÍSTICAS ───────────────────╮ -->
-## `> estadísticas`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tokkyoleaks&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokkyoleaks&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&langs_count=8" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=tokkyoleaks&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
-<br/>
-
-<!-- ╭─────────────────── TROFEOS ───────────────────╮ -->
-## `> trofeos`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tokkyoleaks&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=ffffff&text_color=ffffff" />
-
-</div>
-
-<br/>
-
-<!-- ╭─────────────────── ACTIVIDAD ───────────────────╮ -->
-## `> gráfica de actividad`
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tokkyoleaks&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
-<br/>
-
 <!-- ╭─────────────────── REDES ───────────────────╮ -->
 ## `> redes`
 
@@ -109,6 +71,26 @@ class Tokkyo:
 [![guns.lol](https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guns.lol/tokkyo)
 
 <sub>discord: <code>.tokkyo.</code></sub>
+
+</div>
+
+<br/>
+
+<!-- ╭─────────────────── LENGUAJES ───────────────────╮ -->
+## `> lenguajes de programación`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
